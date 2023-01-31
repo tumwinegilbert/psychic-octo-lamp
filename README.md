@@ -1,0 +1,2 @@
+# psychic-octo-lamp
+Allow 
